@@ -1,0 +1,14 @@
+This is forstThis is forstThis 	.wq!	.wq!	.wq!	.wq!	.wq!
+jj.w!
+public void static (string[] args)
+{
+system.out.println("elcome rto git");
+}
+
+
+
+jjj
+.y
+..y
+y
+;
